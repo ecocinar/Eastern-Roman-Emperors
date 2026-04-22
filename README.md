@@ -1,5 +1,5 @@
 # Eastern-Roman-Emperors
-An interactive data visualization project exploring the reigns of every Eastern Roman (Byzantine) Emperor from Constantine I (306 AD) to Constantine XI (1453 AD).
+An interactive data visualization project exploring the reigns of every* Eastern Roman (Byzantine) Emperor from Constantine I (306 AD) to Constantine XI (1453 AD).
 
 ## Overview
 
@@ -38,7 +38,7 @@ The core dataset (`ERE_List_20260226.csv`) contains the following fields for eac
 
 ## Naming Convention
 
-Emperor names follow the framework of Anthony Kaldellis — Greek forms are used where appropriate for the middle and late Byzantine period (e.g. Herakleios, Nikephoros, Alexios), while deeply embedded Latin forms are retained where they are universally recognized (e.g. Justinian, Constantine). Epithets are rendered in English where vivid and descriptive (Bulgar-Slayer, the Drunkard), and in Greek where they carry specific Byzantine resonance (Porphyrogennetos, Kopronymos, Mourtzouphlos).
+Emperor names follow the framework of Professor Anthony Kaldellis, Greek forms are used where appropriate for the middle and late Byzantine period (e.g. Herakleios, Nikephoros, Alexios), while deeply embedded Latin forms are retained where they are universally recognized (e.g. Justinian, Constantine). Epithets are rendered in English where vivid and descriptive (Bulgar-Slayer, the Drunkard), and in Greek where they carry specific Byzantine resonance (Porphyrogennetos, Kopronymos, Mourtzouphlos).
 
 ## Tools Used
 
@@ -65,6 +65,7 @@ All emperor images are embedded directly in the HTML file as base64, so no inter
 - Co-emperors who never ruled alone (e.g. Michael IX Palaiologos) are included but are harder to score fairly.
 - The Nikaia period (1204–1261) is treated as the legitimate continuation of the Eastern Roman Empire, following mainstream scholarly consensus.
 - Trebizond is excluded.
+- *Some emperors who never truly ruled are excldued 
 
 ## Contributing
 
