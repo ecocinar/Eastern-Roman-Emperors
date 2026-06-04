@@ -1,0 +1,17 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Backups
+ERE Project_backup_clean.ipynb
+Archive/
+
+# Old working files
+ERE Rating Project Python/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
