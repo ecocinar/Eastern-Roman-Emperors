@@ -16,14 +16,6 @@ The scatter chart plots each emperor on two axes:
 
 **Effectiveness (1–20):** How well the emperor handled their situation relative to what was achievable. This is deliberately judged against circumstances — an emperor who defended Constantinople heroically against impossible odds scores higher than one who squandered a stable inheritance. Loss of territory is not penalized if the emperor otherwise succeeded given their constraints.
 
-A composite score (0–100) is calculated as:
-
-```
-Composite = (Effectiveness × 0.6 + Difficulty × 0.4) × 5
-```
-
-Effectiveness is weighted more heavily than difficulty since what an emperor achieved matters more than what they were handed.
-
 ### Unrankable Group
 
 A small number of emperors are classified as Unrankable and displayed separately below the chart. These are emperors who had so little genuine agency — due to age, incapacitation, immediate deposition, or total domination by regents — that applying a score would be misleading rather than informative. Current members of this group: Leo II, Heraklonas, Staurakios, Alexios II Komnenos, and John IV Laskaris.
