@@ -4,9 +4,11 @@ An interactive data visualization project exploring the reigns of every* Eastern
 
 ## Overview
 
-This project combines historical research, data analysis, and interactive visualization to profile the Eastern Roman Emperors across multiple dimensions — including reign difficulty, effectiveness, dynasty, and length of rule.
+This project combines historical research, data analysis, and interactive visualization to profile the Eastern Roman Emperors across multiple dimensions, including reign difficulty, effectiveness, dynasty, and length of rule.
 
 The centerpiece is an interactive scatter chart where each emperor is represented by their portrait, sized by reign length and colored by dynasty, plotted against two custom rating axes.
+
+## [→ View the Interactive Chart](byzantine_scatter_v3.html)
 
 ## The Chart
 
