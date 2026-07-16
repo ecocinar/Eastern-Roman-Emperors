@@ -8,7 +8,7 @@ This project combines historical research, data analysis, and interactive visual
 
 The centerpiece is an interactive scatter chart where each emperor is represented by their portrait, sized by reign length and colored by dynasty, plotted against two custom rating axes.
 
-## [→ View the Interactive Chart](byzantine_scatter_v3.html)
+## [→ View the Interactive Chart](byzantine_scatter_v3.html)    EDIT work in progress
 
 ## The Chart
 
